@@ -53,6 +53,10 @@ body {
     list-style: none;
 }
 
+.header-address{
+    font-style: normal;
+}
+
 .header-address-menu{
     list-style: none;    
 }
@@ -70,7 +74,7 @@ body {
 /* Section-1 */
 
 .solutions {
-    background-color: #2e2f42;
+    background-color: #4D5AE5;
 }
 
 .solutions-title {
@@ -88,6 +92,7 @@ body {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
+    cursor: pointer;;
 }
 
 /* Section-2 */
@@ -132,6 +137,7 @@ body {
 
 .team-menu {
     list-style: none;
+    background-color: #ffffff;
 }
 
 .team-list {
@@ -157,14 +163,14 @@ body {
     color: #434455;
 }
 
-/* Section-3 */
+/* Section-4 */
 .portfolio {
 }
 
 .portfolio-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
